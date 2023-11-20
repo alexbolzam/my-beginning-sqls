@@ -1,0 +1,1 @@
+# Repositório referente aos scripts SQL do módulo banco de dados da my-beginning
